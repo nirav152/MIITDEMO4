@@ -3,7 +3,7 @@ public class second {
 	
 	public static void main(String[] st)
 	{
-		System.out.println("Second demo");
+		System.out.println("test demo");
 	}
 
 }
